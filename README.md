@@ -1,2 +1,2 @@
-# Tarea1
-mi primer repositorio
+# Proyecto1
+Repostorio número 1
